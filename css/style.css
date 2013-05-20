@@ -1,0 +1,23 @@
+.left-half {
+  display:block;
+  width:49%;
+  float:left;
+}
+
+.right-half {
+  display:block;
+  width:49%;
+  float:right;
+}
+
+.reveal body {
+  text-transform:none;
+}
+
+.reveal h1, .reveal h2,.reveal h3,.reveal h4,.reveal h5,.reveal h6 {
+  text-transform:none;
+}
+
+.reveal ul li {
+  margin-bottom:20px;
+}
